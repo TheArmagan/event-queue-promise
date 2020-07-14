@@ -1,0 +1,28 @@
+{
+  "name": "event-queue-promise",
+  "version": "0.0.2",
+  "description": "Promise based basic event queue.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Kıraç Armağan Önal",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-random-string": "^3.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/TheArmagan/event-queue-promise.git"
+  },
+  "keywords": [
+    "event",
+    "queue",
+    "promise"
+  ],
+  "bugs": {
+    "url": "https://github.com/TheArmagan/event-queue-promise/issues"
+  },
+  "homepage": "https://github.com/TheArmagan/event-queue-promise#readme"
+}
